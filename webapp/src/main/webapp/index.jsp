@@ -5,5 +5,4 @@
 <h4> Welcome to ibrahim  </h4>
 <h6> my name is arshman </h6>
 <h7> Welcome to my world </h7>
-My name is Abid
-my friend is Usman nido`
+
